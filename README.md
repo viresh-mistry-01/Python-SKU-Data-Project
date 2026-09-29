@@ -21,6 +21,10 @@ Personal project to test my Python skills by analysing SKU data for a cabling co
 - A number of ranges revenues' rose in the year to 2022 and subsequent drops into 2023 which can be explained by increasing copper prices as well as international conflicts reducing demand
 - All ranges other than 19 and 83 produced less than £1.5m of revenue each year
 
+![Pie Chart](https://github.com/viresh-mistry-01/Python-SKU-Data-Project/tree/main/images/PieChart.png)
+
+![Slope Chart](https://github.com/viresh-mistry-01/Python-SKU-Data-Project/tree/main/images/SlopeChart.png)
+
 ### How to Run
 1) Download CSV from source into Downloads folder
 3) Run SKU_Data_Project.py project to view tables and results
